@@ -3,9 +3,11 @@
 
 Justin Hileman has a nice collection of ported themes not include in my pack (no need for dublication):  [Justin's Coda 2 themes](http://justinhileman.info/coda-colors/).
 
+If you have amy theme request you can ticket them or even faster tweet me your request: @iPaintCode.
+
 ##Version 0.1 
 (themes included in 0.1)
-####Amy, Blackboard, Cobalt, Espresso Libra, Lowlight, Mac Classic, Notebook, Pastels on Dark, PlasticCodeWrap, Railscast, SpaceCadet, Sunburst, Twilight, Zenburnesque
+####Amy, Blackboard, Cobalt, Espresso Libra, IR_Black, Lowlight, Mac Classic, Notebook, Pastels on Dark, PlasticCodeWrap, Railscast, SpaceCadet, Sunburst, Twilight, Zenburnesque
 
 ##About
 A collection of common TextEditor themes ported to the new Coda 2
