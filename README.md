@@ -3,7 +3,8 @@
 
 Justin Hileman has a nice collection of ported themes not include in my pack (no need for dublication):  [More Code 2 themes](http://justinhileman.info/coda-colors/).
 
-##Version 0.1
+##Version 0.1 
+(themes included in 0.1)
 ####Amy, Blackboard, Cobalt, Espresso Libra, Lowlight, Mac Classic, Notebook, Pastels on Dark, PlasticCodeWrap, Railscast, SpaceCadet, Sunburst, Twilight, Zenburnesque
 
 ##About
