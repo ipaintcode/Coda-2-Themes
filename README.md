@@ -34,6 +34,4 @@ If you have any themes you'd like ported, you can ticket them or even faster twe
 A collection of common TextEditor themes ported to the new Coda 2
 
 ##Usage
-Download zip and double clip the XXX.sss themes, goto the Preferences inside
-Coda 2 and select the Color tab. Use the Style Sheet dropdown to select the new
-theme just installed.
+Download zip and double clip the XXX.sss theme you're wish to install, goto the Preferences inside Coda 2 and select the Color tab. Use the Style Sheet dropdown to select the new theme just installed. To add more you can repeat the process or just select the entire folder contents (all XXX.sss files) and double click.
