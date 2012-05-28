@@ -5,6 +5,9 @@ Justin Hileman has a nice collection of ported themes not include in my pack (no
 
 If you have any themes you'd like ported, you can ticket them or even faster tweet me your request: [@iPaintCode](http://twitter.com/iPaintCode/).
 
+##Bugs
+There seems to be a Coda 2 theme export bug, if you come across one please report what theme is affected by it.
+
 ##Version 0.5 
 (themes included in 0.5)
 * [ Argonaut ]
