@@ -7,7 +7,7 @@ If you have any themes you'd like ported, you can ticket them or even faster twe
 
 ##Version 0.1 
 (themes included in 0.1)
-####Amy, Blackboard, Clouds Midnight, Cobalt, Espresso Libra, IR_Black, Lowlight, Mac Classic, Notebook, Pastels on Dark, PlasticCodeWrap, Railscast, SpaceCadet, Sunburst, Twilight, Zenburnesque
+####[ Argonaut ], Amy, Blackboard, Clouds Midnight, Cobalt, Espresso Libra, IR_Black, Lowlight, Mac Classic, Notebook, Pastels on Dark, PlasticCodeWrap, Railscast, SpaceCadet, Sunburst, Twilight, Zenburnesque
 
 ##About
 A collection of common TextEditor themes ported to the new Coda 2
