@@ -3,7 +3,7 @@
 
 Justin Hileman has a nice collection of ported themes not include in my pack (no need for dublication):  [Justin's Coda 2 themes](http://justinhileman.info/coda-colors/).
 
-If you have amy theme request you can ticket them or even faster tweet me your request: [@iPaintCode](http://twitter.com/iPaintCode/).
+If you have any themes you'd like ported, you can ticket them or even faster tweet me your request: [@iPaintCode](http://twitter.com/iPaintCode/).
 
 ##Version 0.1 
 (themes included in 0.1)
