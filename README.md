@@ -1,5 +1,6 @@
-#Coda 2 Themes | TextMate like theme ports by iPaintCode 
-[Mark Learst](http://iPaintCode.com/). I'm not the creator or originator of the original themes, I'm just porting over more common themes from TextMate to give Coda 2 users more flavor of themes. 
+#Coda 2 Themes | TextMate like theme ports by iPaintCode ([Mark Learst](http://iPaintCode.com/)).
+
+  I'm not the creator or originator of the original themes, I'm just porting over more common themes from TextMate to give Coda 2 users more flavor of themes. 
 
 Justin Hileman has a nice collection of ported themes not include in my pack (no need for dublication):  [More Code 2 themes](http://justinhileman.info/coda-colors/).
 
