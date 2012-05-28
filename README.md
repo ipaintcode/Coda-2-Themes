@@ -5,13 +5,30 @@ Justin Hileman has a nice collection of ported themes not include in my pack (no
 
 If you have any themes you'd like ported, you can ticket them or even faster tweet me your request: [@iPaintCode](http://twitter.com/iPaintCode/).
 
-##Version 0.1 
-(themes included in 0.1)
+##Version 0.5 
+(themes included in 0.5)
 * [ Argonaut ]
 * Amy
 * Blackboard
-* Blackboard
-* Grey, Clouds Midnight, Cobalt, Espresso Libra, Github, GlitterBomb, IR_Black, Lowlight, Mac Classic, Made of Code, Merbivore, Notebook, Pastels on Dark, PlasticCodeWrap, Railscast, SpaceCadet, Sunburst, Twilight, Zenburnesque
+* Blackboard Grey
+* Clouds Midnight
+* Cobalt
+* Espresso Libra
+* Github
+* GlitterBomb
+* IR_Black
+* Lowlight
+* Mac Classic
+* Made of Code
+* Merbivore
+* Notebook
+* Pastels on Dark
+* PlasticCodeWrap
+* Railscast
+* SpaceCadet
+* Sunburst
+* Twiligh
+*  Zenburnesque
 
 ##About
 A collection of common TextEditor themes ported to the new Coda 2
