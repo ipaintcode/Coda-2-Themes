@@ -1,6 +1,6 @@
-#Coda 2 Themes | TextMate like theme ports.
- I'm not the creator or originator of the original themes, I'm just porting over more common themes from TextMate to give Coda 2 users more flavor of themes. 
-
+#Coda 2 Themes (ported to work with 2.0's new sss themes).
+ I'm not the creator or originator of the original themes, I'm just porting over more common themes allowing Coda 2 users more flavor of themes. 
+ 
 Justin Hileman has a nice collection of ported themes not include in my pack (no need for dublication):  [Justin's Coda 2 themes](http://justinhileman.info/coda-colors/).
 
 If you have any themes you'd like ported, you can ticket them or even faster tweet me your request: [@iPaintCode](http://twitter.com/iPaintCode/).
