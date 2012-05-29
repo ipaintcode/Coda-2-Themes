@@ -5,8 +5,8 @@ Justin Hileman has a nice collection of ported themes not include in my pack (no
 
 If you have any themes you'd like ported, you can ticket them or even faster tweet me your request: [@iPaintCode](http://twitter.com/iPaintCode/).
 
-##Bugs
-There seems to be a Coda 2 theme import bug, if you come across a theme that looks out of place, please report what theme is affected by it. From my experience, once in a while switching to installed themes can show a different theme (restarting app won't remedy). Best way to fix it is to remove affected theme and install theme (see Usage below).
+##Companion page
+[Screenshots available on the companion page:](http://ipaintcode.com/coda-2-themes/)
 
 ##Version 0.5 
 (themes included in 0.5)
