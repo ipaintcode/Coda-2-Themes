@@ -9,7 +9,7 @@ If you have any themes you'd like ported, you can ticket them or even faster twe
 [Screenshots available here](http://ipaintcode.com/coda-2-themes/)
 
 ##Version 0.5 
-(themes included in 0.5)
+(themes included)
 * [ Argonaut ]
 * Amy
 * Blackboard
