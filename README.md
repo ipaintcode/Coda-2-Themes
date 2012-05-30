@@ -25,6 +25,7 @@ If you have any themes you'd like ported, you can ticket them or even faster twe
 * Made of Code
 * Merbivore
 * Monokai [Credits Justin Peacock! @mrdink](https://twitter.com/#!/mrdink)
+* Monokai Bright (Tweaked to match Sublime Text 2's Monokai)
 * Notebook
 * Pastels on Dark
 * PlasticCodeWrap
