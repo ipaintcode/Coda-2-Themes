@@ -33,6 +33,7 @@ If you have any themes you'd like ported, you can ticket them or even faster twe
 * SpaceCadet
 * Sunburst
 * Twiligh
+* Yeti [Credits Justin Peacock! @mrdink](https://twitter.com/#!/mrdink)
 *  Zenburnesque
 
 ##About
