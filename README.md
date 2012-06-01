@@ -28,6 +28,7 @@ If you have any themes you'd like ported, you can ticket them or even faster twe
 * Monokai Bright (Tweaked to match Sublime Text 2's Monokai)
 * Notebook
 * Pastels on Dark
+* Pinkalicious (for the wifey)
 * PlasticCodeWrap
 * Railscast
 * SpaceCadet
