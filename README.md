@@ -33,7 +33,7 @@ If you have any themes you'd like ported, you can ticket them or even faster twe
 * Railscast
 * SpaceCadet
 * Sunburst
-* Taste the Rainbow [Credits Chad Strat! @ChadStrat](http://chadstrat.com/blog/technology/coda-2-color-theme/)
+* Taste the Rainbow [Credits Chad Strat! @ChadStrat](https://twitter.com/#!/ChadStrat)
 * Twilight
 * Yeti [Credits Justin Peacock! @mrdink](https://twitter.com/#!/mrdink)
 *  Zenburnesque
