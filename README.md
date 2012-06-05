@@ -26,7 +26,7 @@ If you have any themes you'd like ported, you can ticket them or even faster twe
 * Merbivore
 * Monokai [Credits Justin Peacock! @mrdink](https://twitter.com/#!/mrdink)
 * Monokai Bright (Tweaked to match Sublime Text 2's Monokai)
-* Night Lion [CreditsNight Lion! @NightLion](https://twitter.com/#!NightLion).Make sure to check out Night Lions others theme projects on this [blog](http://www.nightlion.net/themes/)
+* Night Lion [Credits Night Lion! @NightLion](https://twitter.com/#!NightLion). Make sure to check out Night Lions others theme projects on this [blog](http://www.nightlion.net/themes/)
 * Notebook
 * Pastels on Dark
 * Pinkalicious (for the wifey)
