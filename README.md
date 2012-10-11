@@ -19,6 +19,7 @@ If you have any themes you'd like ported, you can ticket them or even faster twe
 * Espresso Libra
 * Github
 * GlitterBomb
+* Hozzamedia [Credits Hozzamedia! Check out their Coda 2 theme landing page:](http://blog.hozzamedia.com/website-design/coda-2-by-panic/)
 * IR_Black
 * Lowlight
 * Mac Classic
