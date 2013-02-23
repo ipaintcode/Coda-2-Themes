@@ -1,9 +1,9 @@
 #Coda 2 Themes (ported to work with 2.0's new sss themes).
- I'm not the creator or originator of the original themes, I'm just porting over more common themes allowing Coda 2 users more flavor of themes. 
+Simply ported over the most commonly loved syntax highlighting themes, givin' you Coda 2 users more flavors. 
  
-Justin Hileman has a nice collection of ported themes not include in my pack (no need for dublication):  [Justin's Coda 2 themes](http://justinhileman.info/coda-colors/).
+Justin Hileman has a nice collection of ported themes: [Justin's Coda 2 themes](http://justinhileman.info/coda-colors/).
 
-If you have any themes you'd like ported, you can ticket them or even faster tweet me your request: [@iPaintCode](http://twitter.com/iPaintCode/).
+If you have any themes you'd like ported or you'd like to add your custom theme to list, you can ticket, [tweet - @iPaintCode](http://twitter.com/iPaintCode/) or [email](learst@me.com) me your request.
 
 ##Companion page
 [Screenshots available here](http://ipaintcode.com/coda-2-themes/)
@@ -41,7 +41,7 @@ If you have any themes you'd like ported, you can ticket them or even faster twe
 *  Zenburnesque
 
 ##About
-A collection of common TextEditor themes ported to the new Coda 2
+A collection of common Text Editor themes ported for use in Coda 2
 
 ##Usage
-Download zip and double clip the XXX.sss theme you're wish to install, goto the Preferences inside Coda 2 and select the Color tab. Use the Style Sheet dropdown to select the new theme just installed. To add more you can repeat the process or just select the entire folder contents (all XXX.sss files) and double click.
+Double click the .sss theme you wish to install, within Preferences select the Color tab (It will be selected if you just double clicked .sss). Use the Style Sheet dropdown to select the new theme just installed. To add more you can repeat the process. Like to install entire collection? Select all .sss files and double click or press cmd + o. BOOM!
