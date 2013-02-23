@@ -3,7 +3,7 @@ Simply ported over the most commonly loved syntax highlighting themes, givin' yo
  
 Justin Hileman has a nice collection of ported themes: [Justin's Coda 2 themes](http://justinhileman.info/coda-colors/).
 
-If you have any themes you'd like ported or you'd like to add your custom theme to list, you can ticket, [tweet - @iPaintCode](http://twitter.com/iPaintCode/) or [email](learst@me.com) me your request.
+If you have any themes you'd like ported or you'd like to add your custom theme to the list, you can ticket, [tweet - @iPaintCode](http://twitter.com/iPaintCode/) or [email](learst@me.com) me your request.
 
 ##Companion page
 [Screenshots available here](http://ipaintcode.com/coda-2-themes/)
