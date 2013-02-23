@@ -1,3 +1,5 @@
+Version 2 of [the site's preview](http://ipaintcode.com/coda-2-themes/) coming soon™. A must richer experience =)
+
 #Coda 2 Themes (ported to work with 2.0's new sss themes).
 Simply ported over the most commonly loved syntax highlighting themes, givin' you Coda 2 users more flavors. 
  
