@@ -23,6 +23,7 @@ If you have any themes you'd like ported or you'd like to add your custom theme 
 * GlitterBomb
 * Hozzamedia [Credits Hozzamedia! Check out their Coda 2 theme landing page:](http://blog.hozzamedia.com/website-design/coda-2-by-panic/)
 * IR_Black
+* kTerminal [Credits iksnae! very dark theme](http://devious.mobi)
 * Lowlight
 * Mac Classic
 * Made of Code
