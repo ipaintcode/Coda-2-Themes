@@ -10,7 +10,7 @@ If you have any themes you'd like ported or you'd like to add your custom theme 
 ##Companion page
 [Screenshots available here](http://ipaintcode.com/coda-2-themes/)
 
-##Version 0.5 
+##Version 0.6
 (themes included)
 * [ Argonaut ]
 * Amy
@@ -18,6 +18,7 @@ If you have any themes you'd like ported or you'd like to add your custom theme 
 * Blackboard Grey
 * Clouds Midnight
 * Cobalt
+* Dusk (Xcode Dusk theme)
 * Espresso Libra
 * Github
 * GlitterBomb
