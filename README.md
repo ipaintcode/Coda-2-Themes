@@ -1,4 +1,6 @@
-#####Update Panic has updated their site to improve user experience, these themes are now all on Panics new plugin ecosystem. I'd highly suggest you take a look they have a lot of great stuff for Coda 2.5+, check out sidebar plugins!
+###Update
+
+Panic has updated their site to improve user experience, these themes are now all on Panics new plugin ecosystem. I'd highly suggest you take a look they have a lot of great stuff for Coda 2.5+, check out sidebar plugins!
 [Panic's new Plugin Ecosystem](https://panic.com/coda/plugins.php#Themes)
 ---
 
