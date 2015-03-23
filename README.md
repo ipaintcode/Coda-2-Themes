@@ -1,4 +1,6 @@
-Version 2 of [the site's preview](http://ipaintcode.com/coda-2-themes/) coming soon™. A must richer experience =)
+#####Update Panic has updated their site to improve user experience, these themes are now all on Panics new plugin ecosystem. I'd highly suggest you take a look they have a lot of great stuff for Coda 2.5+, check out sidebar plugins!
+[Panic's new Plugin Ecosystem](https://panic.com/coda/plugins.php#Themes)
+---
 
 #Coda 2 Themes (ported to work with 2.0's new sss themes).
 Simply ported over the most commonly loved syntax highlighting themes, givin' you Coda 2 users more flavors. 
