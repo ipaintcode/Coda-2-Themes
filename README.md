@@ -14,7 +14,7 @@ If you have any themes you'd like ported or you'd like to add your custom theme 
 ##Companion page
 [Screenshots available here](http://ipaintcode.com/coda-2-themes/)
 
-##Version 0.6
+##Version 0.7
 (themes included)
 * [ Argonaut ]
 * Amy
@@ -24,7 +24,7 @@ If you have any themes you'd like ported or you'd like to add your custom theme 
 * Cobalt
 * Dusk (Xcode Dusk theme)
 * Espresso Libra
-* Flatland [Credits thinkpixellab! The mad scientist behind the amazing Sublime Text Flatland theme:](https://github.com/thinkpixellab/flatland)
+* Flatland [Credits thinkpixellab! The mad scientist behind the amazing Sublime Text Flatland theme](https://github.com/thinkpixellab/flatland)
 * Github
 * GlitterBomb
 * Hozzamedia [Credits Hozzamedia! Check out their Coda 2 theme landing page:](http://blog.hozzamedia.com/website-design/coda-2-by-panic/)
