@@ -1,20 +1,20 @@
-###Update
+### Update
 
 Panic has updated their site to improve user experience, these themes are now all on Panics new plugin ecosystem. I'd highly suggest you take a look they have a lot of great stuff for Coda 2.5+, check out sidebar plugins!
 [Panic's new Plugin Ecosystem](https://panic.com/coda/plugins.php#Themes)
 ---
 
-#Coda 2 Themes (ported to work with 2.0's new sss themes).
+# Coda 2 Themes (ported to work with 2.0's new sss themes).
 Simply ported over the most commonly loved syntax highlighting themes, givin' you Coda 2 users more flavors. 
  
 Justin Hileman has a nice collection of ported themes: [Justin's Coda 2 themes](http://justinhileman.info/coda-colors/).
 
 If you have any themes you'd like ported or you'd like to add your custom theme to the list, you can ticket, [tweet - @iPaintCode](http://twitter.com/iPaintCode/) or [email](learst@me.com) me your request.
 
-##Companion page
+## Companion page
 [Screenshots available here](http://ipaintcode.com/coda-2-themes/)
 
-##Version 0.7
+## Version 0.7
 (themes included)
 * [ Argonaut ]
 * Amy
@@ -49,8 +49,8 @@ If you have any themes you'd like ported or you'd like to add your custom theme 
 * Yeti [Credits Justin Peacock! @mrdink](https://twitter.com/#!/mrdink)
 *  Zenburnesque
 
-##About
+## About
 A collection of common Text Editor themes ported for use in Coda 2
 
-##Usage
+## Usage
 Double click the .sss theme you wish to install, within Preferences select the Color tab (It will be selected if you just double clicked .sss). Use the Style Sheet dropdown to select the new theme just installed. To add more you can repeat the process. Like to install entire collection? Select all .sss files and double click or press cmd + o. BOOM!
